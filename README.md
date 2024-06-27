@@ -6,7 +6,6 @@ Welcome to my GitHub profile! 👋
 
 - 🎓 I am a student pursuing a degree in Systems Analysis and Development.
 - 🔍 I'm committed to continuous learning and intensive practice to enhance my skills.
-- 🌱 I’m currently focusing on developing my skills in Python
 
 ## Connect with Me
 
